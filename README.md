@@ -1,13 +1,10 @@
 # Blockchain
 Práctica | Crear un Blockchain con node.js
+Desarrollo Basado en Plataformas
 
-##Práctica Blockchain
+## Unidad II Conceptos Básicos de las Plataformas Web
 
-Práctica | Crear un Blockchain con node.js Desarrollo Basado en Plataformas
-
-Unidad II Conceptos Básicos de las Plataformas Web
-
-###Instrucciones
+### Instrucciones
  Vamos a aplicar nuestros conocimientos adquiridos de Javascript y de Node.Js para programar un blockchain, para esto sigue los siguientes pasos:
 
 1.- Genera una clase Block como modelo con los siguientes atributos:
@@ -20,11 +17,13 @@ a. Index = Identificador de la posición del bloque en la cadena. b. Data = El c
 
 Sube la liga de gitlab con el proyecto generado.
 
-Lenguaje de Programación JavaScript (Node.js v18.13.0.)
 
-Autor Jessica Melissa Núñez Castro Usuario: JessyNunez Matricula: 348509
+#### Autor Jessica Melissa Núñez Castro 
+#### Usuario: JessyNunez 
+#### Matricula: 348509
 
-Funcionamiento Esta práctica implementa un blockchain básico utilizando Node.js y Javascript. Consiste en una cadena de bloques, cada uno conteniendo un índice, datos y el hash del bloque anterior.
+### Funcionamiento
+Esta práctica implementa un blockchain básico utilizando Node.js y Javascript. Consiste en una cadena de bloques, cada uno conteniendo un índice, datos y el hash del bloque anterior.
 
 La implementación incluye dos clases: Block y Blockchain.
 
